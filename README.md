@@ -12,6 +12,8 @@ your todo's as it is when you closed the server.
 Before installing, [download and install Node.js](https://nodejs.org/en/download/).
 Node.js 0.10 or higher is required.
 
+Also, [Download and install MongoDB 4.0 or higher](https://www.mongodb.com/try/download/community).
+
 
   Install dependencies:
 
