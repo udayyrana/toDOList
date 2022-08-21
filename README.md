@@ -30,8 +30,7 @@ $ node app.js
   View the website at: http://localhost:3000
 
 
-## Docs & Community
+## Documentation
 
-  * [Website and Documentation](http://expressjs.com/) - [[website repo](https://github.com/expressjs/expressjs.com)]
-  * [#express](https://webchat.freenode.net/?channels=express) on freenode IRC
+  * [Website and Documentation](https://expressjs.com/) - [[website repo](https://github.com/expressjs/expressjs.com)]
 
